@@ -1,0 +1,86 @@
+@keyframes lightblue {
+    from { transform: rotate(0deg) translateX(490px) rotate(0deg); }
+    to   { transform: rotate(360deg) translateX(490px) rotate(-360deg); }
+}
+
+@keyframes blue {
+    from { transform: rotate(0deg) translateX(440px) rotate(0deg); }
+    to   { transform: rotate(360deg) translateX(440px) rotate(-360deg); }
+}
+
+@keyframes cream {
+    from { transform: rotate(0deg) translateX(390px) rotate(0deg); }
+    to   { transform: rotate(360deg) translateX(390px) rotate(-360deg); }
+}
+
+@keyframes orange {
+    from { transform: rotate(0deg) translateX(340px) rotate(0deg); }
+    to   { transform: rotate(360deg) translateX(340px) rotate(-360deg); }
+}
+
+@keyframes white {
+    from { transform: rotate(0deg) translateX(290px) rotate(0deg); }
+    to   { transform: rotate(360deg) translateX(290px) rotate(-360deg); }
+}
+
+@keyframes green {
+    from { transform: rotate(0deg) translateX(240px) rotate(0deg); }
+    to   { transform: rotate(360deg) translateX(240px) rotate(-360deg); }
+}
+
+@keyframes pink {
+    from { transform: rotate(0deg) translateX(190px) rotate(0deg); }
+    to   { transform: rotate(360deg) translateX(190px) rotate(-360deg); }
+}
+
+@keyframes mint {
+    from { transform: rotate(0deg) translateX(140px) rotate(0deg); }
+    to   { transform: rotate(360deg) translateX(140px) rotate(-360deg); }
+}
+
+.lightblue {
+    animation: lightblue 10s infinite linear;
+
+}
+
+.blue {
+     animation: blue 8s infinite linear;
+
+ }
+
+.cream {
+    animation: cream 7s infinite linear;
+
+}
+
+.orange {
+    animation: orange 5s infinite linear;
+
+}
+
+.white {
+    animation: white 3s infinite linear;
+
+}
+
+.green {
+    animation: green 11s infinite linear;
+
+}
+
+.pink {
+    animation: pink 1s infinite linear;
+
+}
+
+.mint {
+    animation: mint 2s infinite linear;
+
+}
+
+
+
+
+
+
+
